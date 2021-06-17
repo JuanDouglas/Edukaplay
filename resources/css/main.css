@@ -79,6 +79,10 @@ button.btn-normal:hover {
   color: white;
 }
 
+.link {
+  color: #524BED;
+}
+
 .link:hover {
 	color: #2D2B6E;
 	cursor: pointer;
